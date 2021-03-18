@@ -1,0 +1,23 @@
+{
+  "name": "ricardorosa-dev",
+  "version": "1.0.0",
+  "description": "<!-- **ricardorosa-dev/ricardorosa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardorosa-dev/ricardorosa-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardorosa-dev/ricardorosa-dev/issues"
+  },
+  "homepage": "https://github.com/ricardorosa-dev/ricardorosa-dev#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
