@@ -1,5 +1,3 @@
-**TESTING TO ADD A GITHUB PROFILE** </br>
-
 <h1>Hi, I'm Ricardo :wave:</h1>
 
 <h2>About me</h2>
