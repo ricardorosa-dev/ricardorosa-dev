@@ -27,6 +27,9 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" style="opacity: 0.3" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" style="opacity: 0.3" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=PHP&logoColor=white" style="opacity: 0.3" />
+  
+  Check out my portfolio! 
+  http://ricardorosa-dev.github.io/
 
 </p>
 
