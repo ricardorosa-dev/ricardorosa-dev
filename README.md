@@ -184,5 +184,7 @@ Jun 2020 - Jul 2021 <br />
 41. TING - Trybe Is Not Google
 
 
+Check out my portfolio! 
+  http://ricardorosa-dev.github.io/
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardorosa-dev)](https://github.com/ricardorosa-dev/github-readme-stats) -->
