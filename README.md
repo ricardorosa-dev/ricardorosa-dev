@@ -19,23 +19,24 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git&logoColor=white" />
+</p>
 
   
   <h3>BackEnd</h3>
+<p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-whitesmoke?style=flat-square&logo=express&logoColor=gray" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
-
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+</p>
   
   <h3>Aprendendo...</h3>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-f89820
-?style=flat-square&logo=Java&logoColor=white" />
-<img alt="Spring" src="https://img.shields.io/badge/-Spring Boot-6db23f
-?style=flat-square&logo=SpringBoot&logoColor=white" />
-<!-- <img alt="Python" src="https://img.shields.io/badge/-Python-FFD43B
-?style=flat-square&logo=Python&logoColor=gray" /> -->
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring Boot-6db23f?style=flat-square&logo=SpringBoot&logoColor=white" />
+  <!-- <img alt="Python" src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python&logoColor=gray" /> -->
+</p>
   
 <!--
   <h3>Próximos da lista:</h3>
