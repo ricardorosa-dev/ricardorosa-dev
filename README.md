@@ -19,12 +19,11 @@
 
   
   <h3>BackEnd</h3>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-whitesmoke?style=flat-square&logo=express&logoColor=gray" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
-
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-whitesmoke?style=flat-square&logo=express&logoColor=gray" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   
   <h3>Aprendendo...</h3>
   <img alt="Java" src="https://img.shields.io/badge/-Java-f89820
