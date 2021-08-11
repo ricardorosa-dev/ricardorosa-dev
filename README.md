@@ -2,6 +2,9 @@
 
 <h1>Ricardo Rosa</h1>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardorosa-dev)](https://github.com/ricardorosa-dev/github-readme-stats)
+
+
 <h2>Sobre mim</h2>
 <p>:computer: Acabo de finalizar a formação de desenvolvedor FullStack na <a href="https://github.com/betrybe">@betrybe</a>. Você pode ver mais sobre a Trybe e os projetos que desenvolvi no curso no repositório <a href="https://github.com/ricardorosa-dev/Curso-Trybe">Curso Trybe</a>.</p>
 
@@ -50,9 +53,16 @@ Curso de Desenvolvimento Web FullStack na @betrybe <br />
 Jun 2020 - Jul 2021 <br />
 <br />
 
+<h2>Projetos de interesse</h2>
 
+<h3><a href="https://github.com/ricardorosa-dev/33-Trybeer-v2">Trybeer</a>: App FullStack de Entrega de Bebidas, com FrontEnd em React utilizando ContextAPI para compartilhamento de estado e BackEnd em Node, utilizando dois bancos de dados, em MySQL e MongoDB, e a biblioteca Socket.io para Chat em tempo real.</h3>
 
-Check out my portfolio! 
-  http://ricardorosa-dev.github.io/
+<img src="img/trybeer.png" width="200px" />
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardorosa-dev)](https://github.com/ricardorosa-dev/github-readme-stats) -->
+<h3><a href="https://github.com/ricardorosa-dev/sd-06-project-recipes-app">Recipes App</a>: App de receitas: FrontEnd em React e consumo de APIs</h3> <br />
+<img src="img/recipes.png" width="200px" />
+
+---
+<h2> Links:</h2>
+<h3>Portifolio: <a href="http://ricardorosa-dev.github.io">http://ricardorosa-dev.github.io</a></h3>
+<h3>LinkedIn: <a href="https://www.linkedin.com/in/ricardorosa-dev">https://www.linkedin.com/in/ricardorosa-dev</a></h3>
