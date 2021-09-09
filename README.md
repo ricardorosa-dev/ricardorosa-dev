@@ -68,3 +68,4 @@ Jun 2020 - Jul 2021</p>
 <h2> Links:</h2>
 <h3>Portifolio: <a href="http://ricardorosa-dev.github.io">http://ricardorosa-dev.github.io</a></h3>
 <h3>LinkedIn: <a href="https://www.linkedin.com/in/ricardorosa-dev">https://www.linkedin.com/in/ricardorosa-dev</a></h3>
+<h3>Medium: <a href="https://medium.com/@ricardorosa.dev">https://medium.com/@ricardorosa.dev</a></h3>
