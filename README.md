@@ -35,6 +35,7 @@
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring Boot-6db23f?style=flat-square&logo=SpringBoot&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React Native-63dbfb?style=flat-square&logo=React&logoColor=black" />
 <!-- <img alt="Python" src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python&logoColor=gray" /> -->
 </p>
   
@@ -50,8 +51,11 @@
 -->
 
 <h2>Formação</h2>
-Curso de Desenvolvimento Web FullStack na @betrybe <br />
-Jun 2020 - Jul 2021 <br />
+<p>Aceleração em Java com Spring Boot oferecido pela @betrybe em parceria com a empresa CI&T <br />
+Ago 2021 - Out 2021</p>
+
+<p>Curso de Desenvolvimento Web FullStack na @betrybe <br />
+Jun 2020 - Jul 2021</p>
 <br />
 
 <h2>Projetos de interesse</h2>
