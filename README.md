@@ -2,9 +2,6 @@
 
 <h1>Ricardo Rosa</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardorosa-dev)](https://github.com/ricardorosa-dev/github-readme-stats)
-
-
 <h2>Sobre mim</h2>
 <p>:computer: Acabo de finalizar a formação de desenvolvedor FullStack na <a href="https://github.com/betrybe">@betrybe</a>. Você pode ver mais sobre a Trybe e os projetos que desenvolvi no curso no repositório <a href="https://github.com/ricardorosa-dev/Curso-Trybe">Curso Trybe</a>.</p>
 
