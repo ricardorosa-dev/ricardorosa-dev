@@ -3,8 +3,8 @@
 <h1>Ricardo Rosa</h1>
 
 <h2>Sobre mim</h2>
-<p>:computer: Em julho de 2021 finalizei a formação de desenvolvedor FullStack na <a href="https://github.com/betrybe">Trybe</a>. Você pode ver mais sobre a Trybe e os projetos que desenvolvi no curso no repositório <a href="https://github.com/ricardorosa-dev/Curso-Trybe">Curso Trybe</a>.</p>
-<p> Nesse momento estou cursando uma aceleração de onze meses, oferecida também pela Trybe para aprender Java Spring Boot. Você pode ver meu percurso no repositório <a href="https://github.com/ricardorosa-dev/aceleracao-cit-java-spring">Aceleração Java com Spring</a>.
+<p>:computer: Em julho de 2021 finalizei a formação de desenvolvedor FullStack na <a href="https://github.com/betrybe">Trybe</a>. Você pode ver mais sobre a Trybe e os projetos que desenvolvi no curso no repositório <a href="https://github.com/ricardorosa-dev/Curso-Trybe">Curso Trybe</a>.<br />
+Nesse momento estou cursando uma aceleração de onze semanas, oferecida também pela Trybe para aprender Java Spring Boot. Você pode ver meu percurso no repositório <a href="https://github.com/ricardorosa-dev/aceleracao-cit-java-spring">Aceleração Java com Spring</a>.
 </p>
 
 <p>:balloon: Minhas paixões (além de codar) são o desenvolvimento pessoal (que eu estudo há mais de 15 anos!) e a música (sou formado em Composição e Regência :violin:).</p>
