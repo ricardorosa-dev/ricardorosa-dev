@@ -3,7 +3,9 @@
 <h1>Ricardo Rosa</h1>
 
 <h2>Sobre mim</h2>
-<p>:computer: Acabo de finalizar a formação de desenvolvedor FullStack na <a href="https://github.com/betrybe">@betrybe</a>. Você pode ver mais sobre a Trybe e os projetos que desenvolvi no curso no repositório <a href="https://github.com/ricardorosa-dev/Curso-Trybe">Curso Trybe</a>.</p>
+<p>:computer: Em julho de 2021 finalizei a formação de desenvolvedor FullStack na <a href="https://github.com/betrybe">Trybe</a>. Você pode ver mais sobre a Trybe e os projetos que desenvolvi no curso no repositório <a href="https://github.com/ricardorosa-dev/Curso-Trybe">Curso Trybe</a>.</p>
+<p> Nesse momento estou cursando uma aceleração de onze meses, oferecida também pela Trybe para aprender Java Spring Boot. Você pode ver meu percurso no repositório <a href="https://github.com/ricardorosa-dev/aceleracao-cit-java-spring">Aceleração Java com Spring</a>.
+</p>
 
 <p>:balloon: Minhas paixões (além de codar) são o desenvolvimento pessoal (que eu estudo há mais de 15 anos!) e a música (sou formado em Composição e Regência :violin:).</p>
 
@@ -32,7 +34,7 @@
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring Boot-6db23f?style=flat-square&logo=SpringBoot&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/-React Native-63dbfb?style=flat-square&logo=React&logoColor=black" />
+<!--   <img alt="React Native" src="https://img.shields.io/badge/-React Native-63dbfb?style=flat-square&logo=React&logoColor=black" /> -->
 <!-- <img alt="Python" src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python&logoColor=gray" /> -->
 </p>
   
