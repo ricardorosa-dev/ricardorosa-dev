@@ -4,10 +4,10 @@
 
 <h2>Sobre mim</h2>
 <p>:computer: Em julho de 2021 finalizei a formação de desenvolvedor FullStack na <a href="https://github.com/betrybe">Trybe</a>. Você pode ver mais sobre a Trybe e os projetos que desenvolvi no curso no repositório <a href="https://github.com/ricardorosa-dev/Curso-Trybe">Curso Trybe</a>.<br />
-Nesse momento estou cursando uma aceleração de onze semanas, oferecida também pela Trybe para aprender Java Spring Boot. Você pode ver meu percurso no repositório <a href="https://github.com/ricardorosa-dev/aceleracao-cit-java-spring">Aceleração Java com Spring</a>.
+Em outubro de 2021 finalizei uma aceleração de três meses, oferecida também pela Trybe para aprender Java Spring Boot. Você pode ver meu percurso no repositório <a href="https://github.com/ricardorosa-dev/aceleracao-cit-java-spring">Aceleração Java com Spring</a>. Veja também o projeto final que desenvolvemos: <a href="https://github.com/Rafael-Javaro/Central_De_Erros">Central de Erros</a>.
 </p>
 
-<p>:balloon: Minhas paixões (além de codar) são o desenvolvimento pessoal (que eu estudo há mais de 15 anos!) e a música (sou formado em Composição e Regência :violin:).</p>
+<p>:balloon: Minhas paixões, além de codar e tecnologias em geral, são o desenvolvimento pessoal (que eu estudo há mais de 15 anos!) e a música (sou formado em Composição e Regência :violin:).</p>
 
 <h2>:beginner: Tecnologias que eu utilizo</h2>
 <h3>FrontEnd</h3>
@@ -28,12 +28,14 @@ Nesse momento estou cursando uma aceleração de onze semanas, oferecida também
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring Boot-6db23f?style=flat-square&logo=SpringBoot&logoColor=white" />
 </p>
   
   <h3>Aprendendo...</h3>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring Boot-6db23f?style=flat-square&logo=SpringBoot&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-049cfc?style=flat-square&logo=Docker&logoColor=black" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-dc042c?style=flat-square&logo=Angular&logoColor=black" />
 <!--   <img alt="React Native" src="https://img.shields.io/badge/-React Native-63dbfb?style=flat-square&logo=React&logoColor=black" /> -->
 <!-- <img alt="Python" src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python&logoColor=gray" /> -->
 </p>
@@ -68,6 +70,6 @@ Jun 2020 - Jul 2021</p>
 
 ---
 <h2> Links:</h2>
-<h3>Portifolio: <a href="http://ricardorosa-dev.github.io">http://ricardorosa-dev.github.io</a></h3>
+<!-- <h3>Portifolio: <a href="http://ricardorosa-dev.github.io">http://ricardorosa-dev.github.io</a></h3> -->
 <h3>LinkedIn: <a href="https://www.linkedin.com/in/ricardorosa-dev">https://www.linkedin.com/in/ricardorosa-dev</a></h3>
-<h3>Medium: <a href="https://medium.com/@ricardorosa.dev">https://medium.com/@ricardorosa.dev</a></h3>
+<!-- <h3>Medium: <a href="https://medium.com/@ricardorosa.dev">https://medium.com/@ricardorosa.dev</a></h3> -->
